@@ -1,0 +1,32 @@
+[
+    {
+        "usuario_id": "1005",
+        "producto_codigo": "P004",
+        "cantidad": 2,
+        "fecha": "2026-10-02 19:02:33"
+    },
+    {
+        "usuario_id": "1003",
+        "producto_codigo": "P002",
+        "cantidad": 1,
+        "fecha": "2026-10-02 19:03:01"
+    },
+    {
+        "usuario_id": "1002",
+        "producto_codigo": "P005",
+        "cantidad": 4,
+        "fecha": "2026-10-02 19:03:15"
+    },
+    {
+        "usuario_id": "1001",
+        "producto_codigo": "P002",
+        "cantidad": 3,
+        "fecha": "2026-10-02 19:03:34"
+    },
+    {
+        "usuario_id": "1004",
+        "producto_codigo": "P003",
+        "cantidad": 5,
+        "fecha": "2026-10-02 19:03:49"
+    }
+]

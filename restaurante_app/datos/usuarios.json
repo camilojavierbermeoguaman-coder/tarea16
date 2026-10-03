@@ -1,0 +1,37 @@
+[
+    {
+        "identificacion": "1001",
+        "nombre": "Camilo",
+        "usuario": "camilo",
+        "contrasena": "1515",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1002",
+        "nombre": "Mathias",
+        "usuario": "mathias",
+        "contrasena": "5967",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1003",
+        "nombre": "Carla",
+        "usuario": "carla",
+        "contrasena": "9854",
+        "rol": "Cliente"
+    },
+    {
+        "identificacion": "1004",
+        "nombre": "Amy",
+        "usuario": "amy",
+        "contrasena": "6976",
+        "rol": "Empleado"
+    },
+    {
+        "identificacion": "1005",
+        "nombre": "Anuel",
+        "usuario": "anuel",
+        "contrasena": "4747",
+        "rol": "Cliente"
+    }
+]

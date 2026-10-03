@@ -1,0 +1,51 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Humita",
+        "categoria": "Comida",
+        "precio": 2.0,
+        "stock": 20
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida",
+        "precio": 5.5,
+        "stock": 10
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Pepsi",
+        "categoria": "Bebida",
+        "precio": 1.0,
+        "stock": 30
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Encebollado",
+        "categoria": "Comida",
+        "precio": 4.5,
+        "stock": 10
+    },
+    {
+        "codigo": "P005",
+        "nombre": "Cubata",
+        "categoria": "Bebida",
+        "precio": 2.5,
+        "stock": 23
+    },
+    {
+        "codigo": "P006",
+        "nombre": "pan  de chocolate",
+        "categoria": "Postre",
+        "precio": 1.5,
+        "stock": 34
+    },
+    {
+        "codigo": "P007",
+        "nombre": "Brownie",
+        "categoria": "Postre",
+        "precio": 1.0,
+        "stock": 56
+    }
+]
